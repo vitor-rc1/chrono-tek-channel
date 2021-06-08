@@ -1,5 +1,5 @@
 # Some - Every - Find
 
-## Exemplos
+## Examples
 
-## [Video explicação]()
+## [Video explanation](https://youtu.be/v_fkwlk3HV0)

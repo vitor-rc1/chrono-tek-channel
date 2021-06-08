@@ -1,5 +1,5 @@
 # Map - Filter - Reduce
 
-## Exemplos
+## Examples
 
-## [Video explicação](https://www.youtube.com/watch?v=fGUIAF6thaY)
+## [Video explanation](https://www.youtube.com/watch?v=fGUIAF6thaY)
